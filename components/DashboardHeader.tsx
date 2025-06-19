@@ -1,0 +1,1 @@
+"use client";import {Card,CardContent,CardDescription,CardHeader,CardTitle} from "@/components/ui/card";export function DashboardHeader(){return (<Card className="w-full"><CardHeader><CardTitle className="text-3xl font-bold">대시보드</CardTitle><CardDescription>시스템의 전반적인 현황을 한눈에 볼 수 있습니다.</CardDescription></CardHeader></Card>);}
